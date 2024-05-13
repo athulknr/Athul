@@ -1,4 +1,4 @@
 
 
 Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
+Resume URL: https://athulknr.github.io/Athulk_cv/
