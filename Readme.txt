@@ -1,2 +1,2 @@
 Template name: MyResume
-Resume URL: 
+Resume URL: https://athulknr.github.io/Athulk_cv/
