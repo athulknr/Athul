@@ -1,2 +1,11 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
+
+Resume URL: https://athulknr.github.io/Athulk_cv/
+
+Portfolio : https://athulknr.github.io/Athul/
+
+Certificate & Badge : https://github.com/athulknr/Certificate-Badge.git
+
+
+
+
+
