@@ -621,6 +621,17 @@ section,
   color: var(--accent-color);
   line-height: 0;
 }
+/*------------------------------------------------------
+# About Links Hover Effect
+------------------------------------------------------*/
+.about .content ul a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.about .content ul a:hover {
+  color: #0563bb;
+}
 
 /*--------------------------------------------------------------
 # Stats Section
